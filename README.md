@@ -24,6 +24,7 @@
 > #### <code>MCSE 2019 SQL Server</code>
 > #### <code>Oracle Autonomous Database Cloud Specialist</code>
 > #### <code>Oracle cloud infrastructure 2019 architect</code>
-> #### <code>Microsoft MCITP SQL Server 2008, MCTS BI 2008</code>
+> #### <code>Microsoft MCITP SQL Server 2008 </code>
+> #### <code>Microsoft MCTS BI 2008 </code>
 > #### <code>Oracle OCA 11g</code>
 <br>
