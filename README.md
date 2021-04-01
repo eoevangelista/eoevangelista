@@ -16,6 +16,10 @@
 <a href="https://www.youracclaim.com/users/eduardo-evangelista.74fe5a43/badges"> <img width = "150px" src = "https://images.youracclaim.com/size/340x340/images/a0c90a95-7b12-4b51-a8a5-59887be2c399/08_Associate_OCI_Architect_2019.png"> </a>
 <a href="https://www.youracclaim.com/users/eduardo-evangelista.74fe5a43/badges"> <img width = "150px" src = "https://images.youracclaim.com/size/340x340/images/db3d8b5c-8ecc-429f-8f40-c1706b98d729/Oracle-Certification-badge_OC-Specialist.png"> </a>
 <a href="https://credentials.databricks.com/af438d44-ed4d-43d8-9f29-013e81bf7611"> <img width = "150px" src = "https://s3.us-east-1.amazonaws.com/accredible_temp_evidence_upload/badge/16167882262.png"> </a>
+<a href="https://credentials.databricks.com/fc306503-6040-44e2-bdce-f9388546698a"> <img width = "150px" src = "https://s3.us-east-1.amazonaws.com/accredible_temp_evidence_upload/badge/161728400611.png"> </a>
+<a href="https://credentials.databricks.com/1f2276c7-4fe3-4c63-aaff-acd336e39c43"> <img width = "150px" src = "https://s3.us-east-1.amazonaws.com/accredible_temp_evidence_upload/badge/161728406271.png"> </a>
+
+
 
 <br>
 <br>
