@@ -18,6 +18,8 @@
 <a href="https://credentials.databricks.com/af438d44-ed4d-43d8-9f29-013e81bf7611"> <img width = "150px" src = "https://s3.us-east-1.amazonaws.com/accredible_temp_evidence_upload/badge/16167882262.png"> </a>
 <a href="https://credentials.databricks.com/fc306503-6040-44e2-bdce-f9388546698a"> <img width = "150px" src = "https://s3.us-east-1.amazonaws.com/accredible_temp_evidence_upload/badge/161728400611.png"> </a>
 <a href="https://credentials.databricks.com/1f2276c7-4fe3-4c63-aaff-acd336e39c43"> <img width = "150px" src = "https://s3.us-east-1.amazonaws.com/accredible_temp_evidence_upload/badge/161728406271.png"> </a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=38A0765B6E07DF39137E5C5E69C0386BBF8675C1805FEDAC7A0B17E33BCB9CC5"> <img width = "150px" src = "https://brm-workforce.oracle.com/pdf/certview/images/60_Oracle_Cloud_Infrastructure_Architect.png"> </a>
+
 
 
 
@@ -27,8 +29,9 @@
 ## Certifications:
 > #### <code>Azure Data Engineer</code>
 > #### <code>MCSE 2019 SQL Server</code>
-> #### <code>Oracle Autonomous Database Cloud Specialist</code>
-> #### <code>Oracle cloud infrastructure 2019 architect</code>
+> #### <code>Oracle Cloud Infrastructure 2021 Architect Professional</code>
+> #### <code>Oracle Autonomous Database Cloud Specialist 2019</code>
+> #### <code>Oracle cloud infrastructure 2019 architect Associate</code>
 > #### <code>Microsoft MCITP SQL Server 2008 </code>
 > #### <code>Microsoft MCTS BI 2008 </code>
 > #### <code>Oracle OCA 11g</code>
