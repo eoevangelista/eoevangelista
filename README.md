@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eoevangelista)](https://twitter.com/eoevangelista)
 
 
-## Database Administrator | Data Engineer | Data Platform | MCSE | OCA
+## Database Engineer | Data Platform | MCSE | OCA
 
 ### IT professional, with more than 20 years of experience in data transformation with these distinctive features: independent, researcher, creative, calm, strategic and that learning quickly. Has great expertise in database especially in SQL Server technology and Oracle. 
  
